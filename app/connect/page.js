@@ -1,7 +1,7 @@
 import Main from "@/components/Main";
 
 export const metadata = {
-  title: "Aatif's Portfolio ⋅ Connect",
+  title: "Aatif Portfolio ⋅ Connect",
 };
 
 export default function Connect() {

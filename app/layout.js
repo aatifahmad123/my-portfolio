@@ -3,8 +3,8 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Aatif's Portfolio",
-  description: "Aatif's portfolio created using Next Js",
+  title: "Aatif Portfolio",
+  description: "Aatif portfolio created using Next Js",
 };
 
 export default function RootLayout({ children }) {

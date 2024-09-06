@@ -1,7 +1,7 @@
 import Main from "@/components/Main";
 
 export const metadata = {
-  title: "Aatif's Portfolio ⋅ Projects",
+  title: "Aatif Portfolio ⋅ Projects",
 };
 
 export default function Projects() {
