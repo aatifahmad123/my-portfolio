@@ -103,10 +103,11 @@ export default function Connect() {
               Inspirational Quotes
             </h2>
             <p className="text-gray-400 mb-4">
-              Believe you can and you're halfway there. — Theodore Roosevelt
+              Believe you can and you are halfway there. — Theodore Roosevelt
             </p>
             <p className="text-gray-400 mb-4">
-              Don't watch the clock; do what it does. Keep going. — Sam Levenson
+              Do not watch the clock; do what it does. Keep going. — Sam
+              Levenson
             </p>
             <p className="text-gray-400 mb-4">
               The only limit to our realization of tomorrow is our doubts of
