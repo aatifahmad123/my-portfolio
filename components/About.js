@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div className="bg-[#1F1F1F] text-[#D4D4D4] min-h-screen flex flex-col items-center justify-center p-6">
       <div className="text-center max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold mb-4">Hello, I'm Aatif Ahmad</h1>
+        <h1 className="text-4xl font-bold mb-4">Hello, I&apos;m Aatif Ahmad</h1>
         <p className="text-lg mb-8">
           A B.Tech 3rd Year Student at Indian Institute of Technology Jodhpur,
           majoring in Artificial Intelligence and Data Science.
@@ -29,8 +29,8 @@ export default function About() {
           </p>
           <p className="text-md">
             I enjoy exploring new technologies, working on personal projects,
-            and learning about the latest trends in the tech world. I'm always
-            eager to expand my knowledge and take on new opportunities.
+            and learning about the latest trends in the tech world. I&apos;m
+            always eager to expand my knowledge and take on new opportunities.
           </p>
         </div>
 
@@ -215,13 +215,6 @@ export default function About() {
             </div>
           </div>
         </div>
-
-        <p className="text-md mb-8">
-          <em>
-            "You don't get into something to test the waters, you go into things
-            to make waves"
-          </em>
-        </p>
       </div>
     </div>
   );
